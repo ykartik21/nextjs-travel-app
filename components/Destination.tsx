@@ -48,19 +48,19 @@ const Destination = () => {
           }}
         >
           <SwiperSlide className='pb-12'>
-            <DestinationCard img='/jaipur.jpg' place='Paradise Beach, Bantayan Island' country='Rome, Italy' price='$550.16' rating='4.8' />
+            <DestinationCard img='/jaipur.jpg' place='Jaipur The Pink City of India' country='Rajsthan, India' price='$550.16' rating='4.8' />
           </SwiperSlide>
           <SwiperSlide>
-            <DestinationCard img='/neemrana.jpg' place='Ocean with full of Colors' country='Maldives' price='$20.99' rating='4.5' />
+            <DestinationCard img='/neemrana.jpg' place='Neemrana The fort of aravali ' country='Rajsthan,India' price='$20.99' rating='4.5' />
           </SwiperSlide>
           <SwiperSlide>
-            <DestinationCard img='/vrindavan.jpg' place='Mountain View, Above the cloud' country='United Arab Emeries' price='$150.99' rating='5.0' />
+            <DestinationCard img='/vrindavan.jpg' place='Vrindavan  Gods Birthplace' country='Uttar Pradesh,India' price='$150.99' rating='5.0' />
           </SwiperSlide>
           <SwiperSlide>
-            <DestinationCard img='/himalaya.jpeg' place='Gili Trawangan Island' country='Lombok, Indonesia' price='$750.00' rating='4.8' />
+            <DestinationCard img='/himalaya.jpeg' place='Himalayas ' country='Lombok, India' price='$750.00' rating='4.8' />
           </SwiperSlide>
           <SwiperSlide>
-            <DestinationCard img='/dehradun.jpg' place='Kuta Island' country='Bali, Indonesia' price='$670.50' rating='4.6' />
+            <DestinationCard img='/dehradun.jpg' place='Dehradun ' country='Uttarakhand, India' price='$670.50' rating='4.6' />
           </SwiperSlide>
         </Swiper>
       </div>
